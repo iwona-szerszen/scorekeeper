@@ -1,0 +1,31 @@
+.Player__name {
+	display: inline-block;
+	min-width: 110px;
+	border: 1px solid #00558e;
+}
+
+.Player__score {
+	display: inline-block;
+	min-width: 25px;
+	text-align: center;
+	border: 1px solid #00558e;
+	margin: 3px;
+}
+
+.Player__button {
+	display: inline-block;
+	width: 22px;
+	height: 22px;
+	margin: 3px;
+	line-height: 18px;
+	font-size: 18px;
+	text-align: center;
+	color: #fff;
+	background-color: #0067ad;
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+.Remove__player__button {
+
+}
